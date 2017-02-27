@@ -9,7 +9,7 @@ public class View {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         while (true) {
-            System.out.print("Wprowadź liczbę: ");
+            System.out.print("Wprowadz liczbe: ");
             Integer choice = scanner.nextInt();
             Controller controller = new Controller();
             if (choice != null && choice >= 0) {

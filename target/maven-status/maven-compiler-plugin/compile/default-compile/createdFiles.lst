@@ -1,7 +1,12 @@
+sda\adapter\Car.class
+sda\adapter\CarToPersonAdapter.class
 sort\factory\SortFactory.class
+sda\adapter\Main.class
 sda\builder\PersonBuilder.class
+sda\adapter\PersonImpl.class
 sort\impl\Sort.class
 sda\mvc\controller\Controller.class
+sda\adapter\Person.class
 sda\facade\Main.class
 sda\filmWeb\FilmBuilder.class
 sda\facade\SortFacade.class
@@ -11,6 +16,7 @@ sda\singletonFactory\Main.class
 sda\singletonFactory\SortSingletonFactory.class
 sort\impl\BubbleSort.class
 sda\builder\Person.class
+sda\decorator\SortDecoratorWithReverse.class
 sda\mvc\model\Model.class
 sda\builder\Main.class
 sda\builder\PersonAddress.class
@@ -19,7 +25,10 @@ sort\impl\InsertSort.class
 sda\observer\Main.class
 sda\filmWeb\Main.class
 sda\mvc\view\View.class
+sda\adapter\CarImpl.class
+sda\mvc\facade\Facade.class
 sda\filmWeb\Film.class
 sda\singleton\Main.class
 sort\impl\CountSort.class
+sda\adapter\PersonToCarAdapter.class
 sort\factory\SortTypeEnum.class

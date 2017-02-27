@@ -25,7 +25,7 @@ public class SortFacade {
         Sort sort = new CountSort();
         for (int i = 0; i < arrayToSort.length; i++) {
             if (arrayToSort[i] < arrayToSort.length && observer != null) {
-                int tmp=arrayToSort[i];
+                int tmp = arrayToSort[i];
                 arrayToSort[i] = Math.abs(arrayToSort[i]);
                 observer.react(tmp);
             }
