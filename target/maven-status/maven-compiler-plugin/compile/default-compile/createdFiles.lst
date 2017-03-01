@@ -1,11 +1,13 @@
 sda\adapter\Car.class
 sda\adapter\CarToPersonAdapter.class
+sda\thread\SDAThread.class
 sort\factory\SortFactory.class
 sda\adapter\Main.class
 sda\builder\PersonBuilder.class
 sda\adapter\PersonImpl.class
 sort\impl\Sort.class
 sda\mvc\controller\Controller.class
+sda\thread\Main.class
 sda\adapter\Person.class
 sda\facade\Main.class
 sda\filmWeb\FilmBuilder.class
